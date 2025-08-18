@@ -1,3 +1,3 @@
 # Panchoox.github.io
 
-https://panchoox.github.io/
+https://panchoox.github.io
